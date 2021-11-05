@@ -1,0 +1,5 @@
+Summary Statistics
+------------------
+	Mean  = 5.5
+	SD    = 3
+	Range = (1, 10)
