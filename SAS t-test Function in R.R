@@ -247,7 +247,7 @@ ttest <- function(x = c(1:10), class = factor(x = rep(0:1, 5), levels = 0:1),
 
 
 
-### Uncomment each line and run them oen by one for testing. ###
+### Uncomment each line and run them one by one for testing. ###
 #ttest(ichomes$sale.amount, ichomes$bsmtY, alpha = 0.1, plots = TRUE)
 #ttest(ichomes$sale.amount, ichomes$bsmtY, alpha = 0.05, plots = TRUE)
 #ttest(ichomes$sale.amount, ichomes$bsmtY, alpha = 0.02, plots = TRUE)
