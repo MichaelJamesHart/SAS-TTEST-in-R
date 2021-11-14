@@ -27,3 +27,9 @@ Must be between 0 and 1; the default value of 0.05 results in 95% confidence int
 
 plots logical; whether to produce distributional plots, including histograms, box-plots, interval, and
 Q-Q plots.
+
+![]()
+
+![]()
+
+![]()
