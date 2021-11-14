@@ -28,8 +28,8 @@ Must be between 0 and 1; the default value of 0.05 results in 95% confidence int
 plots logical; whether to produce distributional plots, including histograms, box-plots, interval, and
 Q-Q plots.
 
-![]()
+![](SAS-TTEST-in-R/Output-Images/numerical-output.PNG)
 
-![]()
+![](SAS-TTEST-in-R/Output-Images/bar-charts-and-box-plots.PNG)
 
-![]()
+![](SAS-TTEST-in-R/Output-Images/q-q-plots.PNG)
