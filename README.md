@@ -29,7 +29,7 @@ plots logical; whether to produce distributional plots, including histograms, bo
 Q-Q plots.
 
 
-![Numerical Ouput](https://github.com/MichaelJamesHart/wordy/blob/master/Output-Images/numerical-output.PNG)
+![Numerical Ouput](https://github.com/MichaelJamesHart/SAS-TTEST-in-R/blob/main/Output-Images/numerical-output.PNG)
 
 ![Bar Charts and Box Plots](https://github.com/MichaelJamesHart/wordy/blob/master/Output-Images/bar-charts-and-box-plots.PNG)
 
