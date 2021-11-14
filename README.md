@@ -29,8 +29,8 @@ plots logical; whether to produce distributional plots, including histograms, bo
 Q-Q plots.
 
 
-![](https://github.com/MichaelJamesHart/wordy/blob/master/Output-Images/numerical-output.PNG)
+![Numerical Ouput](https://github.com/MichaelJamesHart/wordy/blob/master/Output-Images/numerical-output.PNG)
 
-![](https://github.com/MichaelJamesHart/wordy/blob/master/Output-Images/bar-charts-and-box-plots.PNG)
+![Bar Charts and Box Plots](https://github.com/MichaelJamesHart/wordy/blob/master/Output-Images/bar-charts-and-box-plots.PNG)
 
-![](https://github.com/MichaelJamesHart/wordy/blob/master/Output-Images/q-q-plots.PNG)
+![Q-Q Plots](https://github.com/MichaelJamesHart/wordy/blob/master/Output-Images/q-q-plots.PNG)
