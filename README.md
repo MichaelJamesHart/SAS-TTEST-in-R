@@ -31,6 +31,6 @@ Q-Q plots.
 
 ![Numerical Ouput](https://github.com/MichaelJamesHart/SAS-TTEST-in-R/blob/main/Output-Images/numerical-output.PNG)
 
-![Bar Charts and Box Plots](https://github.com/MichaelJamesHart/wordy/blob/master/Output-Images/bar-charts-and-box-plots.PNG)
+![Bar Charts and Box Plots](https://github.com/MichaelJamesHart/SAS-TTEST-in-R/blob/main/Output-Images/bar-charts-and-box-plots.PNG)
 
-![Q-Q Plots](https://github.com/MichaelJamesHart/wordy/blob/master/Output-Images/q-q-plots.PNG)
+![Q-Q Plots](https://github.com/MichaelJamesHart/SAS-TTEST-in-R/blob/main/Output-Images/q-q-plots.PNG)
