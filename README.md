@@ -1,6 +1,8 @@
 # SAS-TTEST-in-R
  Replicating the SAS t-test function in R.
 
+Project code is in the file "SAS t-test Function in R.R".
+
 The purpose of this project is to develop an R version of the SAS TTEST procedure.
 
 Specifically, I developed an R function named ttest that has the definition given below.
